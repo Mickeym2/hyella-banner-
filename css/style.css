@@ -1,0 +1,81 @@
+.body{
+    background: white;
+    margin: 0%;
+    font-family:sans-serif;
+
+}
+.content{
+    display: flex;
+   
+   margin-left: -20px;
+   margin-bottom: -20px;
+   margin-right: -20px;
+   margin-top: -20px;
+}
+img{
+    max-height: 129%;
+    max-width: 100%;
+}
+
+ #myfound{
+    position: absolute;
+    width:40%;
+    top:50%;
+    padding-top: 10px;
+    left: 26%;
+ }
+#mywall{
+    width: 45%;
+    height:600px;
+}
+
+#myorange{
+    position:absolute;
+    width: 45.9%;
+   height: 1000px;
+    top: 600px;
+    
+}
+#myimage{
+    width: 80%;
+}
+.section{
+ margin: ;
+}
+.box h4{
+    position:absolute;
+    top: -200px;
+    color: rgb(249, 249, 255);
+    left: 10px;
+    padding: 80px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left:5px ;
+    background: rgb(241, 108, 36);
+   margin: 150px -41px;
+    
+   border: 5px solid white;
+   font-size: 70px;
+}
+.box {
+    position:absolute;
+    top: 720px;
+    
+    left: 16px;
+    padding: 120px;
+    font-size: 70px;
+    margin-left: 60px;
+}
+.box h3{
+    color: rgb(247, 247, 249);
+    padding-top: 45px;
+    margin-left: -135px;
+}
+.text{
+   position: absolute;
+   margin-left: 630px;
+   font-size: 70%;
+   letter-spacing: 20px;
+   top: 8%;
+   font-family: 'Roboto Mono', monospace;
+}
